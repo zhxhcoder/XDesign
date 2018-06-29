@@ -16,5 +16,4 @@ public class ViewUtil {
         }
         return 0;
     }
-
 }
