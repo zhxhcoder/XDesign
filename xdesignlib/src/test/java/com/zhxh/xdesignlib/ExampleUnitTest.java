@@ -1,4 +1,4 @@
-package com.zhxh.android.xdesign;
+package com.zhxh.xdesignlib;
 
 import org.junit.Test;
 

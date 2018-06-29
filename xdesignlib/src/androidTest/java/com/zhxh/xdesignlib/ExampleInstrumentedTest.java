@@ -1,4 +1,4 @@
-package com.zhxh.android.xdesign;
+package com.zhxh.xdesignlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zhxh.android.xdesign", appContext.getPackageName());
+        assertEquals("com.zhxh.xdesignlib.test", appContext.getPackageName());
     }
 }
