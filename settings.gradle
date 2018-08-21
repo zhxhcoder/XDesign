@@ -1,1 +1,1 @@
-include ':app', ':xdesignlib'
+include ':app', ':xdesignlib', ':autosize'
