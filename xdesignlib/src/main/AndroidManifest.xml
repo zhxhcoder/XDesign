@@ -1,2 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zhxh.xdesignlib" />
+    package="com.zhxh.xdesignlib">
+
+    <application>
+        <activity android:name=".DefaultErrorActivity"></activity>
+    </application>
+
+</manifest>
